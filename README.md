@@ -44,6 +44,11 @@ should be familiar with:
 * proof by induction and by contradiction
 * discrete probability.
 
+### Course Links
+
+* [GitHub Repo](https://github.com/msu/csci-432-fall2023)
+* [live](https://msu.github.io/csci-432-fall2023/)
+
 ### Credits
 
 I created this website from the [Just the Class](https://kevinl.info/just-the-class/) template.
