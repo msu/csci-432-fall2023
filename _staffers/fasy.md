@@ -3,7 +3,7 @@ name: Brittany Terese Fasy
 role: Instructor
 email: brittany.fasy@montana.edu 
 website: https://fasy.us
-photo: kevin.jpg
+photo: brittany.jpg
 meta:
   Office Hours: TBD 
 ---
