@@ -3,7 +3,7 @@ title: Introduction to Algorithms and Fundamentals Review
 ---
 
 23 Aug
-: [Course Introduction and Induction](#)
+: Course Introduction and Induction [H0-1](https://msu.github.io/csci-432-fall2023/assets/pdfs/08-23_horses.pdf) [H0-2](https://msu.github.io/csci-432-fall2023/assets/pdfs/08-23_two-algs.pdf)
   : [MMF Ch.11](https://mfleck.cs.illinois.edu/building-blocks/index-sp2020.html)
 
 25 Aug
