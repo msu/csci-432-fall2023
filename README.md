@@ -1,39 +1,49 @@
 ---
 layout: home
-title: Just the Class
+title: CSCI 432, Fall 2023
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Just the Class
+  name: Advanced Algorithms (CSCI 432)
 ---
 
-# Just the Class
+# Advanced Algorithms (CSCI 432)
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+This repository is for class materials for CSCI 432 in Fall 2022, taught by Prof. Fasy.
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
 
-Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
+## Description
 
-- automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
-- instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
-- and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
+MSU Course Catalog Description: 
 
-## Getting Started
+A rigorous examination of advanced
+algorithms and data structures. Topics include average case analysis,
+probabilistic algorithms, advanced graph problems and theory, distributed and
+parallel programming.
 
-Getting started with Just the Class is simple.
+From the Instructor: 
+```
+This course is NOT a programming class, and is not
+structured like the 132 and 232 courses that precede it.  In this course, we will
+do many proofs (especially using induction), and will be writing pseudo-code, not
+code.
+```
+## Prerequisites
 
-1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
-1. Update `_config.yml` and `README.md` with your course information. [Be sure to update the url and baseurl](https://mademistakes.com/mastering-jekyll/site-url-baseurl/).
-1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
-1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add more content pages.
+* CSCI 246 (Discrete) or M 242 (Methods of Proof)
+* CSCI 232 (Data Structures and Algorithms)
 
-Just the Class has been used by instructors at Stanford University ([CS 161](https://stanford-cs161.github.io/winter2021/)), UC Berkeley ([Data 100](https://ds100.org/fa21/)), UC Santa Barbara ([CSW8](https://ucsb-csw8.github.io/s22/)), Northeastern University ([CS4530/5500](https://neu-se.github.io/CS4530-CS5500-Spring-2021/)), and Carnegie Mellon University ([17-450/17-950](https://cmu-crafting-software.github.io/)). Share your course website and find more examples in the [show and tell discussion](https://github.com/kevinlin1/just-the-class/discussions/categories/show-and-tell)!
+In particular, a student enrolled in CSCI 432
+should be familiar with: 
 
-### Local development environment
+* sorting and searching algorithms
+* big-O notation, 
+* basic recurrence relations,
+* heaps, queues, lists, and hash tables
+* proof by induction and by contradiction
+* discrete probability.
 
-Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+### Credits
+
+I created this website from the [Just the Class](https://kevinl.info/just-the-class/) template.
