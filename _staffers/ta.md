@@ -1,8 +1,8 @@
 ---
-name: Really Evil Kevin
+name: TBD
 role: Teaching Assistant
-email: me@example.com
-website: https://kevinl.info
+email:  
+website: 
 photo: kevin.jpg
 ---
 
