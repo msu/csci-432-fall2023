@@ -16,11 +16,12 @@ This repository is for class materials for CSCI 432 in Fall 2022, taught by Prof
 ## Description
 
 MSU Course Catalog Description: 
-
+```
 A rigorous examination of advanced
 algorithms and data structures. Topics include average case analysis,
 probabilistic algorithms, advanced graph problems and theory, distributed and
 parallel programming.
+```
 
 From the Instructor: 
 ```

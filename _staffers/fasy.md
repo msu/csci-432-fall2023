@@ -5,7 +5,7 @@ email: brittany.fasy@montana.edu
 website: https://fasy.us
 photo: brittany.jpg
 meta:
-  Office Hours: TBD 
+  Office Hours: TBD (Barnard 363)
 ---
 
 [Schedule an appointment](https://montana.campus.eab.com/pal/vF_g0iza4n){: .btn .btn-outline }
