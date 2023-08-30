@@ -13,7 +13,7 @@ title: Introduction to Algorithms and Fundamentals Review
   : [MMF Ch.11](https://mfleck.cs.illinois.edu/building-blocks/index-sp2020.html)
 
 30 Aug
-: [Asymptotic Notation](#)
+: Asymptotic Notation [H0-3](08-30_asymptotics.pdf)
   : [MMF Ch.14](https://mfleck.cs.illinois.edu/building-blocks/updates-fa2017/big-o.html)
 
 1 Sept
