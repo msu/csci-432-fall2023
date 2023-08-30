@@ -49,6 +49,7 @@ should be familiar with:
 
 * [GitHub Repo](https://github.com/msu/csci-432-fall2023)
 * [live](https://msu.github.io/csci-432-fall2023/)
+* [LaTex files](https://github.com/msu/csci-432-fall2023-latex), including HWs
 
 ### Credits
 

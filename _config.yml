@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Just the Class
-tagline: A Jekyll template for course websites
-description: A modern, highly customizable, responsive Jekyll template for course websites
-author: Kevin Lin
+title: CSCI 4321 
+tagline: Advanced Algorithm Topics
+description: A rigorous examination of advanced algorithms and data structures. 
+author: Brittany Terese Fasy
 baseurl: '/csci-432-fall2023' # the subpath of your site, e.g. /blog
 url: 'https://msu.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
