@@ -47,9 +47,9 @@ should be familiar with:
 
 ### Course Links
 
-* [GitHub Repo](https://github.com/msu/csci-432-fall2023)
-* [live](https://msu.github.io/csci-432-fall2023/)
-* [LaTex files](https://github.com/msu/csci-432-fall2023-latex), including HWs
+* [course LaTex files, including HW](https://github.com/msu/csci-432-fall2023-latex), including HWs
+* [this website](https://msu.github.io/csci-432-fall2023/)
+* [GitHub Repo for this website](https://github.com/msu/csci-432-fall2023)
 
 ### Credits
 
