@@ -14,7 +14,7 @@ title: Introduction to Algorithms and Fundamentals Review
 
 30 Aug
 : Asymptotic Notation [H0-3](08-30_asymptotics.pdf)
-  : [MMF Ch.14](https://mfleck.cs.illinois.edu/building-blocks/updates-fa2017/big-o.html)
+  : [MMF Ch.14](https://mfleck.cs.illinois.edu/building-blocks/updates-fa2017/big-o.pdf)
 
 1 Sept
 : [Basic Analysis of Algorithms](#)
