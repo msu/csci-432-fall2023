@@ -6,7 +6,7 @@ title: Introduction to Algorithms and Fundamentals Review
 : [Course Introduction](https://msu.github.io/csci-432-fall2023/assets/pdfs/08-23_notes.pdf) [H0-1](https://msu.github.io/csci-432-fall2023/assets/pdfs/08-23_two-algos.pdf)
 
 25 Aug
-: **Exam**{: .label .label-purple }[Self-Assessment](#)
+: **Exam**{: .label .label-purple }Self-Assessment
 
 28 Aug
 : Induction [H0-2](https://msu.github.io/csci-432-fall2023/assets/pdfs/08-23_horses.pdf)
