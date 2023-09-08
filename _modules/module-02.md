@@ -10,7 +10,8 @@ title: Recursion
    : [JE Append. II](https://jeffe.cs.illinois.edu/teaching/algorithms/book/99-recurrences.pdf) 
 
 8 Sept
-: [Recursion](https://msu.github.io/csci-432-fall2023/assets/pdfs/09-08_notes.pdf)
+: [Recursion and Recursion Invariants](https://msu.github.io/csci-432-fall2023/assets/pdfs/09-08_notes.pdf)
+  [H0-4](https://msu.github.io/csci-432-fall2023/assets/pdfs/09-08_recur-inv.pdf)
    : [JE Ch.1](https://jeffe.cs.illinois.edu/teaching/algorithms/book/01-recursion.pdf) 
 
 11 Sept
