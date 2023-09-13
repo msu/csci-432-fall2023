@@ -18,8 +18,27 @@ title: Recursion
 : [More Recursion](https://msu.github.io/csci-432-fall2023/assets/pdfs/09-11_notes.pdf)
 
 13 Sept
-: [Even More Recursion](https://msu.github.io/csci-432-fall2023/assets/pdfs/09-13_notes.pdf)
+: [Master Method](https://msu.github.io/csci-432-fall2023/assets/pdfs/09-13_notes.pdf)
 
 15 Sept
-: [Master Method](https://msu.github.io/csci-432-fall2023/assets/pdfs/09-15_notes.pdf)
+: [QuickSort and QuickSelect](https://msu.github.io/csci-432-fall2023/assets/pdfs/09-13_notes.pdf)
 : **HW 1 due**{: .label .label-red }
+
+18 Sept
+: [QuickSelect (cont.)](https://msu.github.io/csci-432-fall2023/assets/pdfs/09-13_notes.pdf)
+
+20 Sept
+: TBD
+
+22 Sept
+: TBD
+
+25 Sept
+: TBD
+
+27 Sept
+: TBD
+: **Exam 1**{: .label .label-purple }
+
+29 Sept
+: TBD
