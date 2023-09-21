@@ -20,24 +20,21 @@ title: Recursion
 : [Master Method](https://msu.github.io/csci-432-fall2023/assets/pdfs/09-13_notes.pdf) [(HO-5)](https://msu.github.io/csci-432-fall2023/assets/pdfs/09-13_master-theorem.pdf)
 
 15 Sept
-: [QuickSort and QuickSelect](https://msu.github.io/csci-432-fall2023/assets/pdfs/09-13_notes.pdf)
+: [QuickSort](https://msu.github.io/csci-432-fall2023/assets/pdfs/09-15_notes.pdf)
 : **HW 1 due**{: .label .label-red }
 
 18 Sept
-: [QuickSelect (cont.)](https://msu.github.io/csci-432-fall2023/assets/pdfs/09-13_notes.pdf)
+: [QuickSelect](https://msu.github.io/csci-432-fall2023/assets/pdfs/09-18_notes.pdf)
 
 20 Sept
-: TBD
+: [QuickSelect (cont.)](https://msu.github.io/csci-432-fall2023/assets/pdfs/09-20_notes.pdf)
 
 22 Sept
-: TBD
+: [Termination and Decrementing Functions](https://msu.github.io/csci-432-fall2023/assets/pdfs/09-22_notes.pdf)
 
 25 Sept
-: TBD
+: [Review](https://msu.github.io/csci-432-fall2023/assets/pdfs/09-25_notes.pdf)
 
 27 Sept
-: TBD
 : **Exam 1**{: .label .label-purple }
 
-29 Sept
-: TBD
