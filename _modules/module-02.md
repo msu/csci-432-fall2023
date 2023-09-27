@@ -29,11 +29,8 @@ title: Recursion
 20 Sept
 : [QuickSelect (cont.)](https://msu.github.io/csci-432-fall2023/assets/pdfs/09-20_notes.pdf)
 
-22 Sept
-: [Termination and Decrementing Functions](https://msu.github.io/csci-432-fall2023/assets/pdfs/09-22_notes.pdf)
-
 25 Sept
-: [Review](https://msu.github.io/csci-432-fall2023/assets/pdfs/09-25_notes.pdf)
+: [Review](https://miro.com/app/board/uXjVMh7doWg=/?share_link_id=379628162699)
 
 27 Sept
 : **Exam 1**{: .label .label-purple }
