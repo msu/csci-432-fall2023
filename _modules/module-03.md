@@ -7,12 +7,22 @@ title: Backtracking & Dynamic Programming
    : [JE Ch.2](https://jeffe.cs.illinois.edu/teaching/algorithms/book/01-backtracking.pdf) 
 
 2 Oct
-: [Longest Increasing Subsequence](https://msu.github.io/csci-432-fall2023/assets/pdfs/09-29_notes.pdf)
+: [Termination and Decrementing Functions](https://msu.github.io/csci-432-fall2023/assets/pdfs/10-02_notes.pdf)
 
 4 Oct
-: [Termination and Decrementing Functions](https://msu.github.io/csci-432-fall2023/assets/pdfs/09-22_notes.pdf)
-: **HW 2 due**{: .label .label-red }
+: [Loop Invariants](https://msu.github.io/csci-432-fall2023/assets/pdfs/10-04_notes.pdf)
 
 6 Oct
-: [Introduction to Dynamic Programming](https://msu.github.io/csci-432-fall2023/assets/pdfs/09-29_notes.pdf)
+: [Backtracking II](https://msu.github.io/csci-432-fall2023/assets/pdfs/10-06_notes.pdf)
+
+9 Oct
+: [Introduction to Dynamic Programming](https://msu.github.io/csci-432-fall2023/assets/pdfs/10-09_notes.pdf)
    : [JE Ch.3](https://jeffe.cs.illinois.edu/teaching/algorithms/book/01-recursion.pdf) 
+: **HW 2 due**{: .label .label-red }
+
+
+11 Oct
+:
+
+13 Oct
+:
