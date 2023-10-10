@@ -18,11 +18,11 @@ title: Backtracking & Dynamic Programming
 9 Oct
 : [Introduction to Dynamic Programming](https://msu.github.io/csci-432-fall2023/assets/pdfs/10-09_notes.pdf)
    : [JE Ch.3](https://jeffe.cs.illinois.edu/teaching/algorithms/book/01-recursion.pdf) 
-: **HW 2 due**{: .label .label-red }
 
 
 11 Oct
 :
+: **HW 2 due**{: .label .label-red }
 
 13 Oct
 :
