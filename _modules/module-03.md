@@ -26,3 +26,11 @@ title: Backtracking & Dynamic Programming
 
 13 Oct
 :
+
+23 Oct
+
+25 Oct
+: Topological Sort I 
+
+27 Oct
+: [Topological Sort II](https://msu.github.io/csci-432-fall2023/assets/pdfs/10-27_notes.pdf)
