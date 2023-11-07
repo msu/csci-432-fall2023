@@ -12,8 +12,9 @@ title: Greedy Algorithms
 :
 
 8 Nov
-: Project Proposals Due
+: [Project Proposals
+Due](https://msu.github.io/csci-432-fall2023/assets/pdfs/project.pdf)
 
 10 Nov
-:
+: No classes.
 
