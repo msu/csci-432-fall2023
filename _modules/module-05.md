@@ -3,7 +3,7 @@ title: Graph Algorithms
 ---
 
 13 Nov
-: Graph Algorithms 
+: [WFS](https://msu.github.io/csci-432-fall2023/assets/pdfs/11-13_notes.pdf)
 
 15 Nov
 : Graph Algorithms 
