@@ -7,7 +7,7 @@ title: Backtracking & Dynamic Programming
    : [JE Ch.2](https://jeffe.cs.illinois.edu/teaching/algorithms/book/01-backtracking.pdf) 
 
 2 Oct
-: [Termination and Decrementing Functions](https://msu.github.io/csci-432-fall2023/assets/pdfs/10-02_notes.pdf)
+: [Termination and Decrementing Functions]({{ site.baseurl }}/assets/pdfs/10-02_notes.pdf)
 
 4 Oct
 : [Loop Invariants](https://msu.github.io/csci-432-fall2023/assets/pdfs/10-04_notes.pdf)
